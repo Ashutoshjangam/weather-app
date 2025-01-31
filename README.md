@@ -1,7 +1,7 @@
 # Weather App
 
-This Weather App provides current weather information for any city. It fetches data from the OpenWeatherMap API and displays it in a user-friendly interface.
-
+This Weather App provides current weather information for any city, It fetches data from the OpenWeatherMap API and displays it in a user-friendly interface.
+open weather api link: https://openweathermap.org/api
 ## Features
 
 - Search weather information by city name
